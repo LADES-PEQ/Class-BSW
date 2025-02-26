@@ -10,7 +10,7 @@ The purpose of this project is to provide tools for modeling BS&Wo in electrosta
 - BS&Wo prediction **offline only (this version)**
 - Implementation of class in **Python code**
 - Class adapted for **practical applications and industrial simulations**
-- **Nonlinear optimization** of parameters with and without constraints of semi-empirical formulations
+- **Nonlinear optimization** of parameters with and without constraints in the semi-empirical formulations
 
 ## 📦 Installation
 To install and use this project, follow these steps:
