@@ -2,15 +2,15 @@
 > This class allows the mathematical simulation of water content at the outlet (BS&Wo) of the electrostatic coalescer based on the operating variables of the coalescer and free variables of the treated water/oil emulsion.
 
 ## 📖 Overview
-This repository contains the source code for BSW-class, developed by Jurgen Lange Bregado and Argimiro R. Secchi at Laboratory of Software Development for Process Control and Optimization (LADES), affiliated with the Programa de Engenharia Química (PEQ), Universidade Federal do Rio de Janeiro (UFRJ).
+This repository contains the source code for **BSW-class**, developed by **Jurgen Lange Bregado and Argimiro R. Secchi** at the **Laboratory of Software Development for Process Control and Optimization (LADES)**, affiliated with the **Programa de Engenharia Química (PEQ), Universidade Federal do Rio de Janeiro (UFRJ)**.
 
-The purpose of this project is to provide tools for modeling BS&Wo in electrostatic coalescers using semiempirical mathematical formulations. This repository serves as a resource for researchers, control engineers, and practitioners working in process control, predictive modeling, and automation.
+The purpose of this project is to provide tools for modeling BS&Wo in electrostatic coalescers using semiempirical mathematical formulations. This repository serves as a resource for **researchers, control engineers, and practitioners**  working in **process control, predictive modeling, and automation**.
 
 ## 🚀 Features
-- BS&Wo prediction offline only (this version)
-- Implementation in Python code
-- Class adapted for practical applications and industrial simulations
-- Nonlinear optimization of parameters in the semiempirical formulations
+- BS&Wo prediction **offline only (this version)**
+- Implementation of class in **Python code**
+- Class adapted for **practical applications and industrial simulations**
+- **Nonlinear optimization** of parameters with and without constraints of semi-empirical formulations
 
 ## 📦 Installation
 To install and use this project, follow these steps:
@@ -42,7 +42,7 @@ sudo apt-get install python3.9
 
 ## 📂 Repository Structure
 ```
-├── src/                 # Source code and data files
+├── src/                 # Source code and data files (.csv)
 ├── docs/                # Documentation files
 ├── Examples/            # Examples of use
 ├── LICENSE              # License information
@@ -51,10 +51,10 @@ sudo apt-get install python3.9
 ```
 
 ## ✏️ Authors & Contributors
-This project was developed by **[Research Group Name]** under the coordination of **[Project Coordinator]**.
+This project was developed by:
 
 - **Jurgen Lange Bregado** - Principal Researcher - jurgenlange1967@gmail.com
-- **Argimiro R. Secchi**   - Reseacher supervisor
+- **Argimiro R. Secchi**   - Reseacher Supervisor
 
 We welcome contributions!
 
